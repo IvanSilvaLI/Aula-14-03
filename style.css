@@ -1,0 +1,38 @@
+body {
+    background-color: #fafafa;
+    text-align: center;
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.A{
+  background-color: #2cd2ec;
+  border: white solid 2px;
+  border-radius: 80px;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.7s;
+}
+input{
+
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border: 1px solid #555;
+        border-radius: 50px;
+        outline: none;
+        text-align: center;
+      }
+.A:hover {
+    transition-duration: 0.7s;
+    background-color: #74e1f2;
+    padding: 20px 30px;
+    cursor: pointer;  
+}
+#btn{
+    margin-top: 15px;
+}
